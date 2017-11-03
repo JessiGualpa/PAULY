@@ -3,24 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package datos.uno;
+package tareas;
 
 /**
  *
  * @author Cli
  */
 public class Clases {
-      public Clases  (){
+    
+public  Clases() {
         System.out.println("primer programa java:\n");
     }
-    public void registro1 (){
+    public void dat1(){
         System.out.println("hola mundo java:\n"
                 + "*************************:\n"
-                + "att:pauly*****************:)\n");
-                
+                + "*************************:\n"
+                + "****************pauly :)**:");
 
 }
 }
-
-
-

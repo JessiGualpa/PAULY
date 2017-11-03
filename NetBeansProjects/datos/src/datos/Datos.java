@@ -1,15 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package datos;
 
-import datos.uno.Clases;
+import tareas.Clases;
 
 /**
  *
- * @author Cli
+ * @author pauly
  */
 public class Datos {
 
@@ -17,11 +13,9 @@ public class Datos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Clases op=new clases();
+        op.dat1();
         
-        Clases op =new Clases();
-           op.registro1();
-    
-    }
     }
     
-
+}
